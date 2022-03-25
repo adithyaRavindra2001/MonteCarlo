@@ -1,6 +1,6 @@
 # Monte Carlo every visit.
 
-We shall calculate all the pisodes for the given problem and then find the state value functions.
+We shall calculate all the episodes for the given problem and then find the state value functions.
 I have calculate the state value functions after calculating 25 random episodes first and then 50 and then 100.
 All these result in different values every time because the episodes are completely random.
 
